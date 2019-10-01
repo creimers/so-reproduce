@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=so_reproduce
+POSTGRES_USER=lrXOrkMZLQsDTDNzDKWFFVZxKRBRzpZj
+POSTGRES_PASSWORD=njFI50xvZQguQhF2zhcq2cQNJ88ArAPQVToQ833gTuC7lLT9RR1D5JVvDDB4U8mq

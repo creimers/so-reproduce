@@ -1,0 +1,5 @@
+[run]
+include = so_reproduce/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
